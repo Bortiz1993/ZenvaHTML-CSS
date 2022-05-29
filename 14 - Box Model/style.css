@@ -1,0 +1,22 @@
+/* borders, margins, and paddings */
+#box{
+    background-color: yellow;
+    width: 200px;
+    height: 100px;
+    /* Padding makes it so that items dont hug the hedges */
+    padding: 20px;
+    border: 2px solid black;
+    /* margin pushes the element away from the edges of the screen */
+    margin: 10px auto 10px auto;
+    
+    /* alignment  of the box and the items inside.*/
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
+}
+
+#box2{
+    background-color:aqua;
+    margin-left: 20px;
+    padding: 0px 10px 30px 50px;
+}

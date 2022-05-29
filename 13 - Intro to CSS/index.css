@@ -1,0 +1,22 @@
+/* Stylesheets continued here */
+h1 {
+    color: blue;
+    background-color: green;
+};
+/* 
+p{
+    font-size: 15px;
+    color: darkred;
+}; */
+
+ .test{
+    color: red;
+}
+
+.veg{
+    color:green;
+}
+
+.meat{
+    color:brown;
+}
